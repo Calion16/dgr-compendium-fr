@@ -11,7 +11,7 @@ Ce module contient un compendium en français comprenant les divers:
 Installez le module manuellement en entrant le chemin d'accès suivant :
 
 ```
-https://raw.githubusercontent.com/Calion16/dgr-compendium-fr/edit/main/module.json
+https://raw.githubusercontent.com/Calion16/dgr-compendium-fr/main/module.json
 ```
 
 
