@@ -3,7 +3,7 @@ Ce module contient un compendium en français comprenant les divers Equipements,
 
 ## INSTALLATION
 
-Install the module manually by entering the following path:
+Installez le module manuellement en entrant le chemin d'accès suivant :
 
 ```
 https://
