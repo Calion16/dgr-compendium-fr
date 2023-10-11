@@ -25,7 +25,5 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ],
-  "manifest": "https://github.com/Calion16/dgr-compendium-fr/releases/latest/download/module.json",
-  "download": "https://github.com/Calion16/dgr-compendium-fr/releases/latest/download/module.zip",
+  ]
 }
