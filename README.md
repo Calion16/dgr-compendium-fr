@@ -3,10 +3,10 @@ Ce module contient un compendium en français comprenant les divers équipements
 
 ## INSTALLATION
 
-Installez le module manuellement en entrant le chemin d'accès suivant :
+Installez le module manuellement en entrant le chemin d'accès suivant dans l'URL du Manifest:
 
 ```
-https://raw.githubusercontent.com/Calion16/DEGENESIS-Compendium-FR/main/module.json
+https://github.com/Calion16/DEGENESIS-Compendium-FR/releases/download/1.0.0/module.json
 ```
 Pour que la fonction qui gère automatiquement l'état actuel des munitions s'exécute avec les nominations françaises des munitions, vous pouvez changer dans le fichier _config.js_ qui se trouve dans _Data\systems\degenesis\module_
 **uniquement** cette partie du code:
