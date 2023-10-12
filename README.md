@@ -13,8 +13,44 @@ Installez le module manuellement en entrant le chemin d'accès suivant :
 ```
 https://raw.githubusercontent.com/Calion16/dgr-compendium-fr/main/module.json
 ```
-Pour que la fonction qui gère automatiquement l'état actuel des munitions s'exécute en français, vous pouvez changer dans le fichier config.js du "Data\systems\degenesis\module"
-
+Pour que la fonction qui gère automatiquement l'état actuel des munitions s'exécute en français, vous pouvez changer dans le fichier config.js qui se trouve dans "Data\systems\degenesis\module"
+ceci:
+```
+DEGENESIS.calibers = {
+  "50gl": ".50 GL",
+  357: ".357",
+  44: ".44",
+  "410sh": ".410 shot",
+  "410sl": ".410 slug",
+  556: "5.56x45mm",
+  jacket: "HF Full Jacket",
+  hollowPoint: "HF Hollow Point",
+  flechette: "5.56mm HUNTER Flechette",
+  "46x30": "4.6x30mm",
+  "9mm": "9mm",
+  "5x30": "5x30mm Caseless",
+  762: "7.62",
+  14: "14mm",
+  buckshot: "CALIBER 12 (Buckshot)",
+  rifleBarrel: "CALIBER 12 (Rifle barrel ammo)",
+  cartridge: "Cartridge",
+  grenade: "Grenade",
+  missle: "Missle",
+  fragger: "Fragger Round",
+  blackpowder: "Black Powder",
+  leadbullet: "Lead Bullet",
+  Ecube: "E-Cube",
+  arrow: "Arrow",
+  bolt: "Bolt",
+  petro: "Can of Petro",
+  harpoon: "Harpoon",
+  nail: "Nail",
+  coal: "Coal",
+  boltcoal: "Bolt & Coal",
+  special: "Special",
+};
+```
+Par ceci:
 ```
 DEGENESIS.calibers = {
   "50gl": ".50 GL « Tonnerre »",
@@ -57,10 +93,6 @@ DEGENESIS.calibers = {
   boltcoal: "Carreau et Charbon",
   special: "Spécial",
 };
-```
-Par ceci:
-```
-https://raw.githubusercontent.com/Calion16/dgr-compendium-fr/main/module.json
 ```
 
 ## COPYRIGHT
