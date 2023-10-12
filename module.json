@@ -13,6 +13,9 @@
       "discord": "calion16"
     }
   ],
+  "scripts": [
+    "configcaliber.js"
+  ],
   "packs": [
     {
       "name": "compendium-fr",
