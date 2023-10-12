@@ -1,4 +1,4 @@
-﻿# Degenesis: Rebirth - Compendium(FR)
+﻿# Degenesis: Rebirth - Compendium(FR) for Foundry VTT
 Ce module contient un compendium en français comprenant les divers équipements du monde de Degenesis: Rebirth.
 
 ## INSTALLATION
