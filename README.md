@@ -8,7 +8,7 @@ Installez le module manuellement en entrant le chemin d'accès suivant :
 ```
 https://raw.githubusercontent.com/Calion16/dgr-compendium-fr/main/module.json
 ```
-Pour que la fonction qui gère automatiquement l'état actuel des munitions s'exécute en français, vous pouvez changer dans le fichier _config.js_ qui se trouve dans "Data\systems\degenesis\module"
+Pour que la fonction qui gère automatiquement l'état actuel des munitions s'exécute en français, vous pouvez changer dans le fichier _config.js_ qui se trouve dans _Data\systems\degenesis\module_
 **uniquement** cette partie du code:
 ```
 DEGENESIS.calibers = {
