@@ -1,4 +1,4 @@
-﻿# dgr-compendium-fr
+﻿# Degenesis: Rebirth - Compendium(FR)
 Ce module contient un compendium en français comprenant les divers équipements du monde de Degenesis: Rebirth.
 
 ## INSTALLATION
