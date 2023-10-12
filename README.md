@@ -1,10 +1,5 @@
 ﻿# dgr-compendium-fr
-Ce module contient un compendium en français comprenant les divers:
-* Armes
-* Armures
-* Artefacts
-* Equipement
-  ... du monde de Degenesis: Rebirth.
+Ce module contient un compendium en français comprenant les divers équipements du monde de Degenesis: Rebirth.
 
 ## INSTALLATION
 
