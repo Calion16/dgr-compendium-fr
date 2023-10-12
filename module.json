@@ -15,12 +15,11 @@
       }
     ]
   },
-  "description": "Ce module contient un compendium en français comprenant les divers équipements du monde de Degenesis: Rebirth.\n\nCOPYRIGHT\nDegenesis® is ™ SIXMOREVODKA Studio GmbH. All rights reserved. This module contains information from Katharsys and Artifacts that have been used with permission from the publisher. All used content from the handbook belong to the respective authors.\nÉdition française par **EDGE-STUDIO**. Ce module contient des traductions de Katharsys et Artefacts qui ont été utilisées avec l'autorisation de l'éditeur.\n\nFor personal, non-commercial use only. If you have paid for this module, you have been scammed.",
+  "description": "Compendium en français pour Degenesis: Rebirth.\n\nCOPYRIGHT SIXMOREVODKA / EDGE-STUDIO pour la VF\nDegenesis® is ™ SIXMOREVODKA Studio GmbH. All rights reserved. This module contains information from Katharsys and Artifacts that have been used with permission from the publisher. All used content from the handbook belong to the respective authors.\nÉdition française par EDGE-STUDIO. Ce module contient des traductions de Katharsys et Artefacts qui ont été utilisées avec l'autorisation de l'éditeur.",
   "authors": [
     {
       "name": "Calion",
-      "discord": "calion16",
-      "flags": {}
+      "discord": "calion16"
     }
   ],
   "url": "https://github.com/Calion16/DEGENESIS-Compendium-FR",
@@ -30,12 +29,11 @@
       "label": "Compendium (FR)",
       "path": "packs/compendium-fr",
       "type": "Item",
+      "system": "degenesis",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "degenesis",
-      "flags": {}
+      }
     }
   ],
   "manifest": "https://github.com/Calion16/DEGENESIS-Compendium-FR/releases/download/1.0.0/module.json",
