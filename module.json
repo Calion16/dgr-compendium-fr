@@ -1,0 +1,40 @@
+{
+  "id": "degenesis-rebirth-compendium-fr",
+  "title": "Degenesis: Rebirth - Compendium (FR)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "degenesis",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Calion",
+      "discord": "calion16",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Calion16/DEGENESIS-Compendium-FR",
+  "packs": [
+    {
+      "name": "compendium-fr",
+      "label": "Compendium (FR)",
+      "path": "packs/compendium-fr",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "degenesis",
+      "flags": {}
+    }
+  ]
+}
