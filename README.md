@@ -6,7 +6,7 @@ Ce module contient un compendium en français comprenant les divers équipements
 Installez le module manuellement en entrant le chemin d'accès suivant dans l'URL du Manifest:
 
 ```
-https://github.com/Calion16/DEGENESIS-Compendium-FR/releases/download/1.0.0/module.json
+https://github.com/Calion16/DEGENESIS-Compendium-FR/releases/download/1.1.0/module.json
 ```
 Pour que la fonction qui gère automatiquement l'état actuel des différentes munitions cartouches s'exécute, vous pouvez ajouter dans le fichier _config.js_ qui se trouve dans _Data\systems\degenesis\module_
 **uniquement** cette partie du code (en dessous de _cartridge: "TYPES.Ammo.cartridge",_):
