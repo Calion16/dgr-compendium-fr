@@ -25,7 +25,7 @@ Pour que la fonction qui gère automatiquement l'état actuel des différentes m
 
 ## COPYRIGHT
 
-**Degenesis®** is **™ SIXMOREVODKA Studio GmbH**. All rights reserved. This module contains information from ***Katharsys*** and ***Artifacts*** that have been used with permission from the publisher. All used content from the handbook belong to the respective authors.
-Édition française par **EDGE-STUDIO**. Ce module contient des traductions de ***Katharsys*** et ***Artefacts*** qui ont été utilisées avec l'autorisation de l'éditeur.
+**Degenesis®** is **™ SIXMOREVODKA Studio GmbH**. All rights reserved. This module contains information and images from **Degenesis Rebirth** that have been used with permission from the publisher. All used content from the handbook belong to the respective authors.
+Édition française par **EDGE-STUDIO**. Ce module contient des traductions de différents ouvrages qui ont été utilisées avec l'autorisation de l'éditeur.
 
 **For personal, non-commercial use only**. If you have paid for this module, you have been scammed.
