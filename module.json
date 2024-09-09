@@ -1,10 +1,10 @@
 {
   "id": "degenesis-rebirth-compendium-fr",
   "title": "Degenesis: Rebirth - Compendium (FR)",
-  "version": "1.1.0",
+  "version": "3.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "relationships": {
     "systems": [
@@ -15,11 +15,12 @@
       }
     ]
   },
-  "description": "COPYRIGHT SIXMOREVODKA / EDGE-STUDIO pour la VF\nDegenesis® is ™ SIXMOREVODKA Studio GmbH. All rights reserved. This module contains information and image from Degenesis Rebirth that have been used with permission from the publisher. All used content from the handbook belong to the respective authors.\nÉdition française par EDGE-STUDIO. Ce module contient des traductions de différents ouvrages qui ont été utilisées avec l'autorisation de l'éditeur.",
+  "description": "COPYRIGHT SIXMOREVODKA / EDGE-STUDIO pour la VF\nDegenesis® is ™ SIXMOREVODKA Studio GmbH. All rights reserved. This module contains informations and images from Degenesis Rebirth that have been used with permission from the publisher. All used content from the handbook belong to the respective authors.\nÉdition française par EDGE-STUDIO. Ce module contient des traductions des ouvrages pubilés qui ont été utilisées avec l'autorisation de l'éditeur.",
   "authors": [
     {
       "name": "Calion",
-      "discord": "calion16"
+      "discord": "calion16",
+      "flags": {}
     }
   ],
   "url": "https://github.com/Calion16/DEGENESIS-Compendium-FR",
@@ -40,6 +41,17 @@
       "label": "Personnages (FR)",
       "path": "packs/personnages-fr",
       "type": "Actor",
+      "system": "degenesis",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "system-fr",
+      "label": "System (FR)",
+      "path": "packs/system-fr",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -47,6 +59,6 @@
       "system": "degenesis"
     }
   ],
-  "manifest": "https://github.com/Calion16/DEGENESIS-Compendium-FR/releases/download/2.0.0/module.json",
-  "download": "https://github.com/Calion16/DEGENESIS-Compendium-FR/releases/download/2.0.0/module.zip"
+  "manifest": "https://github.com/Calion16/DEGENESIS-Compendium-FR/releases/download/3.0.0/module.json",
+  "download": "https://github.com/Calion16/DEGENESIS-Compendium-FR/releases/download/3.0.0/module.zip"
 }
