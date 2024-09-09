@@ -1,12 +1,12 @@
 ﻿# Degenesis: Rebirth - Compendium(FR) for Foundry VTT
-Ce module contient un compendium en français comprenant les divers équipements du monde de Degenesis: Rebirth.
+Ce module contient un compendium en français comprenant les divers équipements et personnages du monde de Degenesis: Rebirth. Il comprend également un journal d'explication de l'utilisation du système Degenesis sur Foundry.
 
 ## INSTALLATION
 
 Installez le module manuellement en entrant le chemin d'accès suivant dans l'URL du Manifest:
 
 ```
-https://github.com/Calion16/DEGENESIS-Compendium-FR/releases/download/1.1.0/module.json
+https://github.com/Calion16/DEGENESIS-Compendium-FR/releases/download/3.0.0/module.json
 ```
 Pour que la fonction qui gère automatiquement l'état actuel des différentes munitions cartouches s'exécute, vous pouvez ajouter dans le fichier _config.js_ qui se trouve dans _Data\systems\degenesis\module_
 **uniquement** cette partie du code (en dessous de _cartridge: "TYPES.Ammo.cartridge",_):
