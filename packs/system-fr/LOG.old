@@ -1,0 +1,8 @@
+2024/09/09-12:20:17.184 63fc Recovering log #7
+2024/09/09-12:20:17.265 63fc Level-0 table #9: started
+2024/09/09-12:20:17.514 63fc Level-0 table #9: 371190 bytes OK
+2024/09/09-12:20:17.671 63fc Delete type=0 #7
+2024/09/09-12:20:17.687 63fc Delete type=3 #6
+2024/09/09-17:36:12.836 65fc Level-0 table #12: started
+2024/09/09-17:36:13.017 65fc Level-0 table #12: 1393050 bytes OK
+2024/09/09-17:36:13.056 65fc Delete type=0 #10
